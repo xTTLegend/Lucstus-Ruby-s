@@ -1,8 +1,9 @@
 # Lucstus-Ruby-s
  CONCURRENT:
- - Added Ruby
- - Added Ruby Ore
- - Added Ruby Disc (Only creative)
+ -  Ruby
+ -  Ruby Ore
+ -  Ruby Disc (Only creative)
+ -  Ruby Block
 
  SOON:
  - Villager trade Ruby Disc
